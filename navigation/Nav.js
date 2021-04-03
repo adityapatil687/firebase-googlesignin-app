@@ -20,8 +20,8 @@ export default function Nav() {
   useEffect(() => {
     // Initial configuration
       GoogleSignin.configure({
-      webClientId: '1003226761979-f3vj1937o3f747lpo19nbjqrlbs8i6hd.apps.googleusercontent.com',
-      //androidClientId: '1003226761979-9cqdisdi6r0d2nrepspefup95dgo61nt.apps.googleusercontent.com',
+      webClientId: 'PLACE YOUR ID HERE',
+      //androidClientId: 'PLACE YOUR ID HERE',
       //offlineAccess: true,
     });
     _isSignedIn();

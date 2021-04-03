@@ -1,2 +1,2 @@
 # firebase-googlesignin-app
-This is the example of firebase authentication for react-native.
+This is an example of firebase authentication in react-native.

@@ -5,8 +5,6 @@ import Nav from './navigation/Nav';
 
 export default function App() {
 
-
-  
   return (
     <>
       <StatusBar style="auto" />
